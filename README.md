@@ -37,6 +37,7 @@ With [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```
 pip install argostranslate
+argospm install translate-en_zh
 ```
 
 
